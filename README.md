@@ -130,3 +130,10 @@ OS Management Hub allows administrators to exclude selected packages from update
 Administrators can monitor update status and package compliance across all managed instances through the OCI console.
 
 This centralized visibility helps organizations maintain compliance with security policies and operational standards.
+
+
+## Additional Documentation
+
+- [Patch Management Workflow](docs/patch-management-workflow.md)
+- [Repository Configuration](docs/repository-configuration.md)
+- [Patch Scheduling and Package Exclusion](docs/scheduling-and-package-exclusion.md)
