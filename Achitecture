@@ -1,0 +1,20 @@
+Administrator
+     │
+     │  OCI Console
+     ▼
+OS Management Hub Service
+     │
+     │ Patch orchestration
+     ▼
+Oracle Cloud Agent
+     │
+     │ Executes commands
+     ▼
+Managed Oracle Linux Instances
+     │
+     │ Retrieve packages
+     ▼
+Software Repositories
+     │
+     ▼
+Package Updates Installed
