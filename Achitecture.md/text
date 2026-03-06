@@ -18,3 +18,7 @@ Software Repositories
      │
      ▼
 Package Updates Installed
+
+## Architecture Overview
+
+![OS Management Hub Architecture](architecture/osmh-architecture.png)
